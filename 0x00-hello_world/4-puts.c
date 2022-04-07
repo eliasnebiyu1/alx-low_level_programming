@@ -1,7 +1,6 @@
 #include<stdio.h>
 /**
  *  main - Responsible for execution and termination 
-(*
  *  Return: always returns 0
  */
 int main(void)
