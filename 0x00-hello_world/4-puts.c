@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /* 
  * main Responsible for starting the execution and termination 
- * 
 */
 int main (void)
 {
