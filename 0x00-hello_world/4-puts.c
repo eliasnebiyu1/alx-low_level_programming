@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  *  main - Responsible for execution and termination
- *  return - always returns 0
+ *  Return - always returns 0
  */
 int main(void)
 {
