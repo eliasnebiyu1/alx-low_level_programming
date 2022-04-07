@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- *  main - Responsible for execution and termination
+ *  main - Responsible for starting the execution and termination of the program
  *
  *  Return: always returns 0
  */
