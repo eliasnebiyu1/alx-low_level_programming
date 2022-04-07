@@ -2,12 +2,13 @@
 
 int main (void)
 
-/* main Responsible for starting the execution and termination of the program  */
+/* 
+ * main Responsible for starting the execution and termination 
+ * 
+*/
 
 {
-
-	puts("\"Programming is like building a multilingual puzzle");
+	puts ("\"Programming is like building a multilingual puzzle");
 	return(0);
-
 }
 
