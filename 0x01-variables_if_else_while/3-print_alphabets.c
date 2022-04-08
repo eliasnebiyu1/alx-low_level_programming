@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-char u, l;
+char u;
 u = 'A';
-l = 'a';
+/*l = 'a';*/
 
 while (u <= 'Z')
 {
