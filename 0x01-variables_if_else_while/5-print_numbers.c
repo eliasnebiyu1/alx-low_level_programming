@@ -3,7 +3,7 @@
  * main - Responsible for starting the execution and termination
  *
  * Return: returns 0
- */ 
+ */
 int main(void)
 {
 int i;
