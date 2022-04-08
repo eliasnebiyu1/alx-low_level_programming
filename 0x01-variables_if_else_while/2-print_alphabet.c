@@ -9,10 +9,12 @@ int main(void)
 char lca;
 lca = 'a';
 
-while(lca <= 'z')
+while (lca <= 'z')
 {
 putchar(lca);
 lca++;
 }
+
+putchar("\n");
 return (0);
 }
