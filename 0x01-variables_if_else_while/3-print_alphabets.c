@@ -10,12 +10,12 @@ char u, l;
 u = 'A';
 l = 'a';
 
-while (u <= 'Z' && l<= 'z')
+while (u <= 'Z')
 {
 putchar(u);
-putchar(l);
+/*putchar(l);*/
 }
 
 putchar('\n');
-return(0);
+return (0);
 }
