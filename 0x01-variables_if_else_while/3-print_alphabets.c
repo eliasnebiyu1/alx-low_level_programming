@@ -6,14 +6,12 @@
  */
 int main(void)
 {
-char u;
-u = 'A';
-/*l = 'a';*/
+char ul[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+int i;
 
-while (u <= 'Z')
+while (i=0; i<52; i++)
 {
-putchar(u);
-/*putchar(l);*/
+putchar(ul[i]);
 }
 
 putchar('\n');
