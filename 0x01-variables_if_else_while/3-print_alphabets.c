@@ -9,7 +9,7 @@ int main(void)
 char ul[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int i;
 
-while (i=0; i<52; i++)
+for (i=0; i<52; i++)
 {
 putchar(ul[i]);
 }
