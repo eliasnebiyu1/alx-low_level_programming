@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 /**
  * int abs - prints absolute value of numbers 
  *

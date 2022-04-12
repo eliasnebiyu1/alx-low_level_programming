@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * _islower - Returns 1 if c is a letter lowercase or uppercase
  *
