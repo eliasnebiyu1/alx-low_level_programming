@@ -13,9 +13,9 @@ int i;
 
 for (i = 0; i < 8; i++)
 {
-putchar(asc[i]);
+_putchar(asc[i]);
 }
 
-putchar('\n');
+_putchar('\n');
 return (0);
 }
