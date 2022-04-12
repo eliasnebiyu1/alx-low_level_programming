@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- * int_abs - prints absolute value of numbers 
+ * _abs - prints absolute value of numbers
+ *
+ * @i: stores values
  *
  * Return: always returns positive
  */
