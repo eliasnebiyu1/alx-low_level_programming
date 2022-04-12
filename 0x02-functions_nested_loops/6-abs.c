@@ -1,13 +1,12 @@
 #include "main.h"
 /**
- * int abs - prints absolute value of numbers 
+ * int_abs - prints absolute value of numbers 
  *
- * Return: re
+ * Return: always returns positive
  */
 
-int _abs(int)
+int _abs(int i)
 {
-int i;
 
 if (i >= 0)
 {
