@@ -3,6 +3,8 @@
  * print_sign - checks whether valus are +, - or equal to 0
  *
  * @n: stores input
+ *
+ * Return: returns +, - or 0
  */
 
 int print_sign(int n)
