@@ -24,6 +24,5 @@ _putchar(ld - 48);
 return (-ld);
 }
 
-}
 _putchar('\n');
 }
