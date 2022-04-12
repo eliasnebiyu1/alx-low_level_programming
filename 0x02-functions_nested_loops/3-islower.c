@@ -2,6 +2,8 @@
 /**
  * _islower - Returns 1 if c is lowercase
  *
+ * c: characters in ASCII code
+ *
  * Return: returns 0
  */
 
