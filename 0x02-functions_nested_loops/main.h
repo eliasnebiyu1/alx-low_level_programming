@@ -1,9 +1,3 @@
-#ifndef _main_h_
-#define _main_h_
-/**
- * File: main.h is a header file containing declarations of all functions
- */
-
 int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_x10(void);
