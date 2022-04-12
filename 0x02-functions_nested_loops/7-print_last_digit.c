@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_last_digit - prints absolute value of numbers 
+ * print_last_digit - prints absolute value of numbers
  *
  * @n: stores values
  *
