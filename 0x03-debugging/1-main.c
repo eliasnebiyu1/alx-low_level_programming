@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - causes an infinite loop
  *
  * Return: returns 0
@@ -17,7 +17,7 @@ i = 0;
 /*
  * while (i < 10)
  *
- * { 
+ * {
  *
  * Infinite loop - No increase of variable
  *
