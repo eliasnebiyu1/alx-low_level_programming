@@ -18,6 +18,8 @@ i = 0;
  *
  * {
  *
+ * Infinite loop - infinite
+ *
  * putchar(i);
  *
  * }
