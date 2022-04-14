@@ -10,7 +10,7 @@ int main(void)
 long int i, lpf;
 i = 612852475143;
 
-for (lpf = 2; lpf <= n; lpf++)
+for (lpf = 2; lpf <= i; lpf++)
 {
 
 if (i % lpf == 0)
