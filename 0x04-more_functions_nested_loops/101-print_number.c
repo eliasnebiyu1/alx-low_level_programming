@@ -21,7 +21,7 @@ else
 i = n;
 }
 
-i = j;
+j = i;
 count = 1;
 
 while (j > 9)
