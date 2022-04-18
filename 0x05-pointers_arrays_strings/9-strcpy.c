@@ -24,5 +24,5 @@ break;
 c++;
 }
 
-return(dest);
+return (dest);
 }
