@@ -7,7 +7,7 @@
  * Return: 1 if n is a prime number 0 otherwise
  */
 
-int is_prime(unsigned int n, unsigned int c)
+int prime(unsigned int n, unsigned int c)
 {
 
 if (n % c == 0)
@@ -24,7 +24,7 @@ return (0);
 }
 
 }
-return (0 + is_prime(n, c + 1));
+return (0 + prime(n, c + 1));
 }
 
 /**
@@ -53,7 +53,7 @@ return (0);
 
 else
 {
-return (is_prime(n, 2));
+return (prime(n, 2));
 }
 
 }
