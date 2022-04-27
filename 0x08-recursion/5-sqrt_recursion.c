@@ -24,7 +24,7 @@ return (-1);
 }
 }
 
-return (0 + power_operation(i, j + 1));
+return (0 + sqroot(i, j + 1));
 }
 
 /**
