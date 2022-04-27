@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * sqrt - returns the natural square root of a number
+ * sqroot - returns the natural square root of a number
  * @i: input integer
  * @j: counter
  * Return: square root
  */
 
-int sqrt(int i, int j)
+int sqroot(int i, int j)
 {
 
 if (j % (i / j) == 0)
