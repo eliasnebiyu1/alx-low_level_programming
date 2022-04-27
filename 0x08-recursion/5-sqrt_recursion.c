@@ -46,10 +46,14 @@ else if (n == 0)
 return (0);
 }
 
-else
+else if (n == 1)
 {
 return (1);
 }
 
+else
+{
 return (sqroot(n, 2));
+}
+
 }
