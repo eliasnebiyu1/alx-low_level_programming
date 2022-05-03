@@ -49,12 +49,10 @@ i++;
 ia++;
 j = 0;
 }
-
 if (ia < c - 1)
 {
 aout[ia] = av[i][j];
 }
-
 }
 aout[ia] = '\0';
 return (aout);
